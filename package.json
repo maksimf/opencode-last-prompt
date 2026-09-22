@@ -1,0 +1,19 @@
+{
+  "name": "opencode-last-prompt",
+  "version": "0.1.0",
+  "description": "Sticky last-prompt line for the OpenCode TUI.",
+  "type": "module",
+  "exports": {
+    "./tui": "./tui.tsx"
+  },
+  "files": [
+    "tui.tsx"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "tui",
+    "cli"
+  ],
+  "license": "MIT"
+}
